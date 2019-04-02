@@ -1,0 +1,42 @@
+
+CREATE TABLE [testtable] (
+[col1] [varchar]  NOT NULL,
+[col2] [varchar]  NOT NULL)
+
+INSERT [testtable] ([col1],[col2]) VALUES ( '11','11')
+INSERT [testtable] ([col1],[col2]) VALUES ( '33','330')
+INSERT [testtable] ([col1],[col2]) VALUES ( '44','440')
+INSERT [testtable] ([col1],[col2]) VALUES ( '99999','000000')
+INSERT [testtable] ([col1],[col2]) VALUES ( '99999','000000')
+INSERT [testtable] ([col1],[col2]) VALUES ( '99999','000000')
+INSERT [testtable] ([col1],[col2]) VALUES ( '66','5656565')
+INSERT [testtable] ([col1],[col2]) VALUES ( '77','5656565')
+INSERT [testtable] ([col1],[col2]) VALUES ( '88','5656565')
+INSERT [testtable] ([col1],[col2]) VALUES ( '99','5656565')
+INSERT [testtable] ([col1],[col2]) VALUES ( '99999','000000')
+
+
+
+
+
+CREATE TABLE [Department] (
+[DepartmentID] [int]  NOT NULL DEFAULT 0,
+[Name] [varchar]  NOT NULL,
+[Budget] [int]  NOT NULL DEFAULT 0,
+[StartDate] [datetime]  NOT NULL,
+[Administrator] [int]  NOT NULL DEFAULT 0)
+
+INSERT [Department] ([DepartmentID],[Name],[Budget],[StartDate],[Administrator]) VALUES ( 10,'testName',100,'2010-4-12 0:00:00',5)
+INSERT [Department] ([DepartmentID],[Name],[Budget],[StartDate],[Administrator]) VALUES ( 11,'testName',100,'2010-4-12 0:00:00',5)
+INSERT [Department] ([DepartmentID],[Budget],[StartDate],[Administrator]) VALUES ( 0,0,'2010-4-12 0:00:00',0)
+INSERT [Department] ([DepartmentID],[Name],[Budget],[Administrator]) VALUES ( 13,'testName',100,5)
+
+
+
+有些网友会提出，如何执行这些脚本，而且是在access数据库中，
+东软代码生成器，比较好用的一个工具。可以连接任何OleDbConnection 数据库。就是只要用ADO.net 能够连接的都可以。
+自己下载一个用用，而且是开源的。前不久刚开源。
+
+http://www.maticsoft.com/
+
+然后用他连接数据库，可以执行sql语句。

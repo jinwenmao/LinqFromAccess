@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\Model\bin\Debug\Model.dll
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\Model\bin\Debug\Model.pdb
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\Model\obj\Debug\Model.dll
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\Model\obj\Debug\Model.pdb

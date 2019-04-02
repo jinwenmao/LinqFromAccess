@@ -1,0 +1,7 @@
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\BAL\bin\Debug\BAL.dll
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\BAL\bin\Debug\BAL.pdb
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\BAL\bin\Debug\Model.dll
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\BAL\bin\Debug\Model.pdb
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\BAL\obj\Debug\BAL.dll
+D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\BAL\obj\Debug\BAL.pdb
