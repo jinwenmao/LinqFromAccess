@@ -104,6 +104,21 @@ namespace BAL.Service
                 context.Open();
                 DataContext dataContext = context.Context;
                 IEnumerable collections = dataContext.ExecuteQuery((new Department()).GetType(), strSql.ToString());
+
+                ///jwm test
+                //IEnumerable<Department> vars = from Department ncol in collections where ncol.DepartmentID > 100 select ncol;
+
+                //foreach (var item in vars)
+                //{
+                //    Department temp = item;
+                //    deplist.Add(temp);
+                //}
+
+                //vars.ElementAt(0);
+                //vars.Count();
+                //end jwm test
+                
+
                 foreach (var item in collections)
                 {
                     Department temp = item as Department;

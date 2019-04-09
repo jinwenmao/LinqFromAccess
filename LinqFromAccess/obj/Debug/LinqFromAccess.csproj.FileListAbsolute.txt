@@ -11,3 +11,16 @@ D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\LinqFromAc
 D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\LinqFromAccess\bin\Debug\BAL.pdb
 D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\LinqFromAccess\obj\Debug\LinqFromAccess.exe
 D:\My Documents\Visual Studio 2008\Projects\Base.Demos\LinqFromAccess\LinqFromAccess\obj\Debug\LinqFromAccess.pdb
+D:\work_git\LinqFromAccess\LinqFromAccess\bin\Debug\LinqFromAccess.exe.config
+D:\work_git\LinqFromAccess\LinqFromAccess\obj\Debug\LinqFromAccess.exe
+D:\work_git\LinqFromAccess\LinqFromAccess\obj\Debug\LinqFromAccess.pdb
+D:\work_git\LinqFromAccess\LinqFromAccess\bin\Debug\LinqFromAccess.exe
+D:\work_git\LinqFromAccess\LinqFromAccess\bin\Debug\LinqFromAccess.pdb
+D:\work_git\LinqFromAccess\LinqFromAccess\bin\Debug\BAL.dll
+D:\work_git\LinqFromAccess\LinqFromAccess\bin\Debug\Model.dll
+D:\work_git\LinqFromAccess\LinqFromAccess\bin\Debug\BAL.pdb
+D:\work_git\LinqFromAccess\LinqFromAccess\bin\Debug\Model.pdb
+D:\work_git\LinqFromAccess\LinqFromAccess\obj\Debug\LinqFromAccess.csprojResolveAssemblyReference.cache
+D:\work_git\LinqFromAccess\LinqFromAccess\obj\Debug\LinqFromAccess.MainForm.resources
+D:\work_git\LinqFromAccess\LinqFromAccess\obj\Debug\LinqFromAccess.Properties.Resources.resources
+D:\work_git\LinqFromAccess\LinqFromAccess\obj\Debug\LinqFromAccess.csproj.GenerateResource.Cache
